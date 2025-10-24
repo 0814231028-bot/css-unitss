@@ -1,0 +1,33 @@
+body {
+    background-color: maroon;
+}
+
+.header {
+    background-color: rgb(173, 28, 28);
+    padding: 5%;
+    font-size: 30px;
+}
+
+.header h1 {
+    color: rgb(246, 246, 246);
+    font-size: 1em;
+}
+
+.header a {
+    color: rgb(255, 72, 0);
+    font-size: 1em;
+}
+
+.gallery img {
+    width: 25%;
+    margin: 2%;
+}
+
+.gallery {
+    background-color: rgb(226, 141, 141);
+}
+
+
+
+
+/* em is relative to the container font size */
